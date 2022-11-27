@@ -32,7 +32,7 @@ body
 	line-height: 30px;
 	font-size: 20px;
 }
-.contnet p{
+.content p{
 	font-size:20px;
 	text-align:left;
 	text-indent: 2em;
@@ -42,7 +42,7 @@ body
 	font-size: 30px;
 	color:#7c251c;
 }
-.content p strong,.content p u{color: #7c251c;}
+.content p strong,.content p u{color:#7c251c;}
 .content p u{font-size: 24px;}
 .content p b{background-color: #f5ee30;}
 .footer{
